@@ -22,4 +22,4 @@ lehon05dev/data.git
 - 모든 개발관련 스크립트 및 프로그램은 dev에 언어별로 저장(ex. Shell, Python, etc)
 - aa
 - bb
-- cc
+- dd
